@@ -1,1 +1,4 @@
-# adaptiv-sait
+# Пример кода адаптивного сайта
+Сам сайт можно посмотреть [здесь](irlama.github.io/adaptiv-sait/)
+
+
